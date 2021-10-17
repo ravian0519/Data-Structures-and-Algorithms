@@ -1,5 +1,15 @@
 # Data-Structures-and-Algorithms
-Hacktoberfest'21 Contributions Repository
 
-###Create files in folders for the specified data structure like Stacks, Queues, DijistraAlgorithm, ...etc
-PRs are welcome
+You can contribute programs related to Data Structures and Algorithms.
+
+## How to contribute
+
+Follow [the guidlines](CONTRIBUTE.md) to make the contribution.
+
+# Folders
+ * [Algorithms](./Algorithms)
+   * [Python](./Algorithms/Python)
+ * [Data-Structures](./Data-Structures)
+   * [Cpp](./Data-Structures/Cpp)
+   * [Linkedlist](./Data-Structures/Linkedlist)
+   * [Python](./Data-Structures/Python)
